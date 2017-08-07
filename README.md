@@ -1,2 +1,3 @@
 # html-bootstrap-css-demo
-Demonstration for HTML, CSS and bootstrap
+Athor : Jadhav
+Description : Demonstration for HTML, CSS and bootstrap
